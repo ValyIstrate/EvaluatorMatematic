@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1642160351 source:c:\users\valen\desktop\probleme\proiectenum\main.cpp
+	<iostream>
+	<cstring>
+	<winbgim.h>
+	<graphics.h>
+	<fstream>
+	<math.h>
+	<limits.h>
+	<stack>
+	<queue>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+
